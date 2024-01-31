@@ -12,12 +12,13 @@
 - Programador de aplicaciones de escritorio
 - Soluciones de TI
 - Estudiante de 42 Malaga - Fundación telefónica 
-- 
-- 
-- 
+- Estudiante de Ciberseguridad
+- Ciberseguridad Domestica
+- Consejos y Trucos del dia a dia
 <br>
 
-## Proyectos *bombitas*
+## Proyectos *Actuales*
+
 
 ### ⚙️ &nbsp;GitHub Analytics
 
